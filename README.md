@@ -4,7 +4,7 @@ APL keyboard layout for JIS user
 It seems I'm the only one who write APL using a JIS keyboard on Mac.
 This layout is roughly based on ideas from [Smith's next generation APL keyboard](http://www.dyalog.com/uploads/conference/dyalog06/presentations/09_Smith_Keyboards/keybd.htm) and my own perference.
 
-I know there're lots things can be improved (i.e. some obsure APL charachters are not included, some keys are not cleaned up),
+I know there're lots things can be improved (i.e. some more obscure APL symbols are not included, some keys from the default JIS layout are not cleaned up),
 so please post an issue if you have any questions or suggestions.
 
 ## Base layout
